@@ -1,4 +1,0 @@
-datasource-ip-address:localhost
-user:root
-dbName:ketabcha_sarafi
-password:iCube@L1333
